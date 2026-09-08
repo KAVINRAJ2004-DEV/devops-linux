@@ -1,0 +1,3 @@
+Hello, this is my first DevOps file.
+I am learning Git and Linux on AWS.
+This file will be pushed to GitHub.
